@@ -1,0 +1,11 @@
+Barang,jumlah,Harga,Pelunasan
+Sosis,10,70000,Yes
+Naget,2,10000,No
+Kentang,2,20000,Yes
+Bakso,6,24000,Yes
+Naget,3,,No
+Sosis,5,35000,Yes
+Bakso,10,40000,No
+Sosis,8,56000,No
+Kentang,,50000,Yes
+Naget,9,45000,Yes
